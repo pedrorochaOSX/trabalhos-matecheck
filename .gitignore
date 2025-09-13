@@ -1,0 +1,63 @@
+# Build directory and compiled executables
+build/
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+
+# Compiled C files (executables without extension)
+CartasSuperTrunfo
+logicaSuperTrunfo
+xadrez
+batalhaNaval
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+#*#
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Log files
+*.log
+
+# Test files and outputs
+test_*
+*.test
+output.txt
